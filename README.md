@@ -14,10 +14,10 @@ Project files:
   * my_pad.py
   * my_preprocess.py
   
-  Data files:
-  ----------
-  * europarl-v7.fr-en.en (European Parliament English sentences from transcripts)
-  * europarl-v7.fr-en.fr (European Parliament French sentences from transcripts)
+ Data files:
+ ----------
+ * europarl-v7.fr-en.en (European Parliament English sentences from transcripts)
+ * europarl-v7.fr-en.fr (European Parliament French sentences from transcripts)
 
 What it's about:
 ---------------
