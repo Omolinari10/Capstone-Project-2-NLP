@@ -1,8 +1,8 @@
-# Capstone-Project-2-NLP
+# Capstone-Project-2-NLP Translation Model
+------------------------------------------
 
-Translation Model
------------------
-
+Project files:
+-------------
 * Capstone Project 2 - Milestone Report 1.pdf (Report explaining what was done till this point: 2020/12/13)
 * Capstone Project 2 - Milestone Report 1.pptx (Slides explaining what was done till this point: 2020/12/13)
 * requirements.txt (Python packages as of 2020/12/13)
