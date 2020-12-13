@@ -5,14 +5,14 @@ Translation Model
 
 * Capstone Project 2 - Milestone Report 1.pdf (Report explaining what was done till this point: 2020/12/13)
 * Capstone Project 2 - Milestone Report 1.pptx (Slides explaining what was done till this point: 2020/12/13)
-* requirements.txt (as of 2020/12/13)
+* requirements.txt (Python packages as of 2020/12/13)
 * CAPSTONE PROJECT 2 - NLP - 1) Environment and Data Set Up.ipynb
 * CAPSTONE PROJECT 2 - NLP - 2) Processing the data.ipynb
 * CAPSTONE PROJECT 2 - NLP - 3) Modeling.ipynb
 * nlp_helper_functions (directory)
-  * ==>my_tokenize.py
-  * ==>my_pad.py
-  * ==>and my_preprocess.py
+  * my_tokenize.py
+  * my_pad.py
+  * my_preprocess.py
 
 What it's about:
 ---------------
@@ -38,9 +38,9 @@ That download provides you with fr-en.tgz which when uncompressed results in two
 The Python code files:
 ---------------------
 The main code is divided into three Jupyter Notebooks: 
-  1) CAPSTONE PROJECT 2 - NLP - 1) Environment and Data Set Up.ipynb
-  2) CAPSTONE PROJECT 2 - NLP - 2) Processing the data.ipynb
-  3) CAPSTONE PROJECT 2 - NLP - 3) Modeling.ipynb
+* 1) CAPSTONE PROJECT 2 - NLP - 1) Environment and Data Set Up.ipynb
+* 2) CAPSTONE PROJECT 2 - NLP - 2) Processing the data.ipynb
+* 3) CAPSTONE PROJECT 2 - NLP - 3) Modeling.ipynb
  
 There are 3 .py files that are used within the 2) and 3) Jupyter Notebooks. They are found in the nlp_helper_functions directory. They are: my_tokenize.py, my_pad.py, and my_preprocess.py. As named, the first tokenizes lists of sentences, the second pads them and the third calls the first two to prepare the data for modeling.
 
@@ -55,6 +55,6 @@ CAPSTONE PROJECT 2 - NLP - 1) Environment and Data Set Up.ipynb will be run firs
 
 Documents:
 ---------
-Capstone Project 2 - Milestone Report 1.pdf (Report explaining what was done till this point: 2020/12/13)
-Capstone Project 2 - Milestone Report 1.pptx (Slides explaining what was done till this point: 2020/12/13)
-requirements.txt (as of 2020/12/13)
+* Capstone Project 2 - Milestone Report 1.pdf (Report explaining what was done till this point: 2020/12/13)
+* Capstone Project 2 - Milestone Report 1.pptx (Slides explaining what was done till this point: 2020/12/13)
+* requirements.txt (as of 2020/12/13)
