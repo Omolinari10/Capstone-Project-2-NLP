@@ -3,16 +3,16 @@
 Translation Model
 -----------------
 
-Capstone Project 2 - Milestone Report 1.pdf (Report explaining what was done till this point: 2020/12/13)
-Capstone Project 2 - Milestone Report 1.pptx (Slides explaining what was done till this point: 2020/12/13)
-requirements.txt (as of 2020/12/13)
-CAPSTONE PROJECT 2 - NLP - 1) Environment and Data Set Up.ipynb
-CAPSTONE PROJECT 2 - NLP - 2) Processing the data.ipynb
-CAPSTONE PROJECT 2 - NLP - 3) Modeling.ipynb
-nlp_helper_functions (directory)
-  ==>my_tokenize.py
-  ==>my_pad.py
-  ==>and my_preprocess.py
+* Capstone Project 2 - Milestone Report 1.pdf (Report explaining what was done till this point: 2020/12/13)
+* Capstone Project 2 - Milestone Report 1.pptx (Slides explaining what was done till this point: 2020/12/13)
+* requirements.txt (as of 2020/12/13)
+* CAPSTONE PROJECT 2 - NLP - 1) Environment and Data Set Up.ipynb
+* CAPSTONE PROJECT 2 - NLP - 2) Processing the data.ipynb
+* CAPSTONE PROJECT 2 - NLP - 3) Modeling.ipynb
+* nlp_helper_functions (directory)
+  * ==>my_tokenize.py
+  * ==>my_pad.py
+  * ==>and my_preprocess.py
 
 What it's about:
 ---------------
