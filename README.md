@@ -5,6 +5,8 @@ Project files:
 -------------
 * Capstone Project 2 - Milestone Report 1.pdf (Report explaining what was done till this point: 2020/12/13)
 * Capstone Project 2 - Milestone Report 1.pptx (Slides explaining what was done till this point: 2020/12/13)
+* Capstone Project 2 - Milestone Report 2.pdf (Report explaining what was done till this point: 2020/12/23)
+* Capstone Project 2 - Milestone Report 2.pptx (Slides explaining what was done till this point: 2020/12/23)
 * requirements.txt (Python packages as of 2020/12/13)
 * CAPSTONE PROJECT 2 - NLP - 1) Environment and Data Set Up.ipynb
 * CAPSTONE PROJECT 2 - NLP - 2) Processing the data.ipynb
@@ -62,4 +64,6 @@ Documents:
 ---------
 * Capstone Project 2 - Milestone Report 1.pdf (Report explaining what was done till this point: 2020/12/13)
 * Capstone Project 2 - Milestone Report 1.pptx (Slides explaining what was done till this point: 2020/12/13)
+* Capstone Project 2 - Milestone Report 2.pdf (Report explaining what was done till this point: 2020/12/23)
+* Capstone Project 2 - Milestone Report 2.pptx (Slides explaining what was done till this point: 2020/12/23)
 * requirements.txt (as of 2020/12/13)
