@@ -3,10 +3,19 @@
 
 Project files:
 -------------
-* Capstone Project 2 - Milestone Report 1.pdf (Report explaining what was done till this point: 2020/12/13)
-* Capstone Project 2 - Milestone Report 1.pptx (Slides explaining what was done till this point: 2020/12/13)
-* Capstone Project 2 - Milestone Report 2.pdf (Report explaining what was done till this point: 2020/12/23)
-* Capstone Project 2 - Milestone Report 2.pptx (Slides explaining what was done till this point: 2020/12/23)
+* Initial Project Ideas (directory)
+  * Capstone Project 2 - NLP Project Ideas.docx (Initial ideas for Capstone Project 2)
+* Project Proposal (directory)
+  * Capstone Project 2 Proposal.docx (Proposal for Capstone Project 2)
+* Milestone Report 1 (directory)
+  * Capstone Project 2 - Milestone Report 1.pdf (Report explaining what was done till this point: 2020/12/13)
+  * Capstone Project 2 - Milestone Report 1.pptx (Slides explaining what was done till this point: 2020/12/13)
+* Milestone Report 2 (directory)
+  * Capstone Project 2 - Milestone Report 2.pdf (Report explaining what was done till this point: 2020/12/23)
+  * Capstone Project 2 - Milestone Report 2.pptx (Slides explaining what was done till this point: 2020/12/23)
+* Final Report (directory)
+  * Capstone Project 2 - Final Report.pdf
+  * Capstone Project 2 - Final Report.pptx
 * requirements.txt (Python packages as of 2020/12/13)
 * CAPSTONE PROJECT 2 - NLP - 1) Environment and Data Set Up.ipynb
 * CAPSTONE PROJECT 2 - NLP - 2) Processing the data.ipynb
@@ -23,7 +32,7 @@ Project files:
 
 What it's about:
 ---------------
-This is my second Capstone Project on SpringBoard.com. For this project I chose to build a Natural Language Processing Model (NLP) using an Embedded Recurrent Neural Networks(RNN) Model to be able to automatically translate English sentences into French sentences.
+This is my second Capstone Project on SpringBoard.com. For this project I chose to build a Natural Language Processing Model (NLP) using an Embedded GRU Recurrent Neural Networks(RNN) Model to be able to automatically translate English sentences into French sentences.
 
 
 The machine set-up:
@@ -62,8 +71,12 @@ CAPSTONE PROJECT 2 - NLP - 1) Environment and Data Set Up.ipynb will be run firs
 
 Documents:
 ---------
+* Capstone Project 2 - NLP Project Ideas.docx (Initial ideas for Capstone Project 2)
+* Capstone Project 2 Proposal.docx (Proposal for Capstone Project 2)
 * Capstone Project 2 - Milestone Report 1.pdf (Report explaining what was done till this point: 2020/12/13)
 * Capstone Project 2 - Milestone Report 1.pptx (Slides explaining what was done till this point: 2020/12/13)
 * Capstone Project 2 - Milestone Report 2.pdf (Report explaining what was done till this point: 2020/12/23)
 * Capstone Project 2 - Milestone Report 2.pptx (Slides explaining what was done till this point: 2020/12/23)
+* Capstone Project 2 - Final Report.pdf
+* Capstone Project 2 - Final Report.pptx
 * requirements.txt (as of 2020/12/13)
