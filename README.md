@@ -47,7 +47,7 @@ I used Python 3 for this project.
 
 The Input files:
 ---------------
-They input files can be found at this URL: http://www.statmt.org/europarl/ and this download "parallel corpus French-English, 194 MB, 04/1996-11/2011"
+The input files can be found at this URL: http://www.statmt.org/europarl/ and this download "parallel corpus French-English, 194 MB, 04/1996-11/2011"
 That download provides you with fr-en.tgz which when uncompressed results in two files: europarl-v7.fr-en.en and europarl-v7.fr-en.fr
 
 
